@@ -30,34 +30,8 @@ R Shiny is an invaluable method of constructing flexible and engaging applicatio
 
 **References**
 
-@article{Jia2021development,
-  title = {Development of interactive biological web applications with R/shiny},
-  author = {Jia, L. and Yao, W. and Jiang, Y. and Li, Y. and Wang, Z. and Li, H. and Huang, F. and Li, J. and Chen, T. and Zhang, H. and {et al.}},
-  journal = {Briefings in bioinformatics},
-  year = {2021},
-  pmid = {34642739},
-  url = {https://pubmed.ncbi.nlm.nih.gov/34642739/},
-}
+Jia, L., Yao, W., Jiang, Y., Li, Y., Wang, Z., Li, H., Huang, F., Li, J., Chen, T., & Zhang, H. (2021). Development of interactive biological web applications with R/Shiny. Briefings in Bioinformatics, 23(1). https://doi.org/10.1093/bib/bbab415
 
-@misc{JCOshiny,
-  title = {JCO Clinical Cancer Informatics. R},
-  url = {https://campus.datacamp.com/courses/case-studies-building-web-applications-with-shiny-in-r/explore-a-dataset-interactively-with-shiny?ex=3},
-  author = {R},
-}
+R Shiny Examples in pharma and Biotech - HackMD. (n.d.). HackMD. https://hackmd.io/@gigikenneth/Bk4phayca
 
-@misc{rshinypharma,
-  title = {R shiny examples in pharma and biotech},
-  url = {https://hackmd.io/@gigikenneth/Bk4phayca},
-  author = {HackMD},
-}
-
-@article{Farrel2023rogue,
-  title = {Rogue: An R shiny app for RNA sequencing analysis and Biomarker Discovery},
-  author = {Farrel, A. and Li, P. and Veenbergen, S. and Patel, K. and Maris, J. M. and Leonard, W. J.},
-  journal = {BMC Bioinformatics},
-  volume = {24},
-  number = {1},
-  pages = {5420},
-  year = {2023},
-  doi = {10.1186/s12859-023-05420-y},
-}
+Farrel, A., Li, P., Veenbergen, S., Patel, K., Maris, J. M., & Leonard, W. J. (2023). ROGUE: an R Shiny app for RNA sequencing analysis and biomarker discovery. BMC Bioinformatics, 24(1). https://doi.org/10.1186/s12859-023-05420-y
